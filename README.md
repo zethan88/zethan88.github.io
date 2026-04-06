@@ -1,6 +1,8 @@
 # Ethan Zhou — Portfolio
 
-Personal portfolio site hosted at [zethan88.github.io](https://zethan88.github.io).
+Personal portfolio site hosted at: 
+-  [zethan88.github.io](https://zethan88.github.io)
+-  [www.ethanrzhou.com](https://www.ethanrzhou.com)
 
 ## Stack
 
